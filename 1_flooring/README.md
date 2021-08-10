@@ -4,7 +4,7 @@
 
 ### Materials
 
-[Diamond Tread Safety Flooring Width 2.2 metres And Thickness 3mm Gray](https://www.slip-not.co.uk/products/diamond-tread-safety-flooring-linear-metre?variant=40340554547393) - bought from [Slip-NOT.co.uk](https://www.slip-not.co.uk/)
+Diamond Tread Safety Flooring (width 2.2 metres, thickness 3mm, grey) from [Slip-NOT.co.uk](https://www.slip-not.co.uk/products/diamond-tread-safety-flooring-linear-metre?variant=40340554547393)
 
 This cost £68.16 per metre (including VAT) and I bought 3m for the floor of the van.
 
@@ -30,5 +30,5 @@ Once in the van, I trimmed the edges and corners. You'll note that the edges (in
 
 ### Lessons Learnt
 
-- The pattern is not exactly parallel / perpendicular to the roll. This causes confusion when measuring and cutting!
+- The pattern is not exactly parallel / perpendicular to the roll. This caused confusion when measuring and cutting!
 

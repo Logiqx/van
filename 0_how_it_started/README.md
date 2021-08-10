@@ -1,6 +1,6 @@
 # K888 Windsurfing Van
 
-## Starting Point
+## "How it Started"
 
 The van is a Ford Transit Custom (2018)
 
@@ -10,7 +10,7 @@ The van is a Ford Transit Custom (2018)
 
 
 
-It had been ply-lined by the previous owner - 5mm (sides) and 8mm (floor).
+It had been ply-lined by the previous owner - 5mm (sides) and 9mm (floor).
 
 ![20210625_130214](img/20210625_130214.jpg)
 

@@ -10,13 +10,19 @@ The write-up is partly so that I don't forget stuff and also to share links + ti
 
 
 
+## Materials
+
+I've listed all of the materials on a [separate page](materials.md).
+
+
+
 ## Breakdown
 
 The project was broken down into discrete elements and each one will be written up separately.
 
 Click the links below for full details:
 
-0. [How it started](0_how_it_started/README.md)
+0. ["How it started"](0_how_it_started/README.md)
 1. [Flooring](1_flooring/README.md)
 2. [First Layer](2_first_layer/README.md)
 3. [Second Layer](3_second_layer/README.md)
@@ -25,9 +31,4 @@ Click the links below for full details:
 6. [Shelving](6_shelving/README.md)
 7. [Sleeping](7_sleeping/README.md)
 
-
-
-### Materials
-
-I've done a full list of materials on a [separate page](materials.md).
 
