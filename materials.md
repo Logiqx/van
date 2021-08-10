@@ -15,7 +15,6 @@
   - Rothley Anodised Aluminium Angle - 2000 x 15 x 15mm from [Screwfix](https://www.screwfix.com/p/rothley-anodised-aluminium-angle-2000-x-15-x-15mm/712jp)
   - Hafele Cabinet Edging Tape - White 10m from [Screwfix](https://www.screwfix.com/p/hafele-cabinet-edging-tape-white-10m/8891r)
 - Diamond Tread Safety Flooring from [Slip-NOT.co.uk](https://www.slip-not.co.uk/products/diamond-tread-safety-flooring-linear-metre?variant=40340554547393)
-
 - Blooma UC4 Pine Green Square Fence post - (H)1m (W)70mm from [B&Q](https://www.diy.com/departments/blooma-uc4-pine-green-square-fence-post-h-1m-w-70mm/3663602432302_BQ.prd)
   - Smith & Locke Heavy Duty Screw-In Anti-Slip U Storage Hook Black - 25mm from [Screwfix](https://www.screwfix.com/p/smith-locke-heavy-duty-screw-in-anti-slip-u-storage-hook-black-25mm/7903j)
 - Armacell SelfSeal Armaflex - 28mm x 9mm x 2mts from [JTM Plumbing](https://www.jtmplumbing.co.uk/search/armacell-selfseal-armaflex)
@@ -36,7 +35,7 @@
 
 ## Fixings
 
-### Threaded Inserts / Anchors
+### Threaded Inserts + Wall Anchors
 
 - Through-Tapped Self-Tapping Threaded Inserts - Marine Grade A4 Stainless Steel - M5 x 10mm from [Shop4Fasteners](https://shop4fasteners.co.uk/through-tapped-self-tapping-threaded-inserts-marine-grade-a4-stainless-steel-m5-x-10mm.html)
 - Rawlplug Hollow Wall Anchors - M5 x 37mm (20 Pack) from [Screwfix](https://www.screwfix.com/p/rawlplug-hollow-wall-anchors-m5-x-37mm-20-pack/99201)
