@@ -6,7 +6,7 @@
 
 Diamond Tread Safety Flooring (width 2.2 metres, thickness 3mm, grey) from [Slip-NOT.co.uk](https://www.slip-not.co.uk/products/diamond-tread-safety-flooring-linear-metre?variant=40340554547393)
 
-This cost £68.16 per metre (including VAT) and I bought 3m for the floor of the van.
+This cost £52.08 per metre (including VAT) and I bought 3m for the floor of the van.
 
 
 
