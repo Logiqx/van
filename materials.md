@@ -8,66 +8,67 @@
 
 
 
-### First and Second Layer
+### First and Second Layers
 
 - Marine Plywood (BS1088 2440mm x 1220mm x 12mm) from [Travis Perkins](https://www.travisperkins.co.uk/plywood/marine-plywood-bs1088-2440mm-x-1220mm-x-12mm/p/698115)
 - 25mm Square Tube System from [Richardsons](https://www.richardsonsuk.co.uk/25mm-square-tube-system/p47)
-- Armacell SelfSeal Armaflex - 28mm x 9mm x 2mts from JTM Plumbing
-- Rothley Anodised Aluminium Angle 2000 x 15 x 15mm  from Screwfix
-- Self-Amalgamating Rubber Tape Black 3m x 25mm 
+- Armacell SelfSeal Armaflex - 28mm x 9mm x 2mts from [JTM Plumbing](https://www.jtmplumbing.co.uk/search/armacell-selfseal-armaflex)
+- Rothley Anodised Aluminium Angle - 2000 x 15 x 15mm from [Screwfix](https://www.screwfix.com/p/rothley-anodised-aluminium-angle-2000-x-15-x-15mm/712jp)
+- Self-Amalgamating Rubber Tape Black - 3m x 25mm from [Screwfix](https://www.screwfix.com/p/self-amalgamating-rubber-tape-black-3m-x-25mm/2115v)
 
 
 
-### Top Bars and Lower Bars
+### Top and Lower Bars
 
 - 27mm Galvanised Tube (Handrail) from [KeyClampStore.com](https://www.keyclampstore.com/27mm-handrailing)
   - Fittings For 27mm Tube from [KeyClampStore.com](https://www.keyclampstore.com/key-clamp-fittings/27mm-key-clamp/)
-- Climaflex Pipe Insulation 28mm x 9mm x 2m bought from City Plumbing
-- Scotch VHB Permanent Double-Sided Foam Mirror Mounting Tape White 5m x 19mm
-- Gorilla Tape from Toolstation
+- Climaflex Pipe Insulation 28mm x 9mm x 2m bought from [City Plumbing](https://www.cityplumbing.co.uk/Climaflex-Pipe-Insulation-28mm-x-9mm-x-2m/p/871868)
+- Scotch VHB Permanent Double-Sided Foam Mirror Mounting Tape - White 5m x 19mm from [Screwfix](https://www.screwfix.com/p/scotch-vhb-permanent-double-sided-foam-mirror-mounting-tape-white-5m-x-19mm/404jj)
+- Gorilla Tape - Black 25mm x 9.14m from [Toolstation](https://www.toolstation.com/gorilla-cloth-duct-tape/p80306)
 
 
 
-### Fixings
+## Fixings
 
-#### Anchors
+### Threaded Inserts / Anchors
 
-- Through-Tapped Self-Tapping Threaded Inserts - Marine Grade A4 Stainless Steel - M5 x 10mm
-- Jack Nuts from Amazon
-- Rawlplug Hollow Wall Anchors M5 x 37mm 20 Pack from Screwfix
-
-
-
-#### Bolts
-
-- Socket Button Head Screws Stainless A4 - M5 x 12mm
-- Socket Button Head Screws Stainless A4 - M5 x 16mm 
-- Socket Button Head Screws Stainless A4 - M5 x 20mm (10 pack) from Kay's Fasteners
-- Socket Button Head Screws Stainless A4 - M5 x 40mm (10 pack) from Kay's Fasteners
-- Eye Bolt M5 Made of 304 Stainless Steel Sturdy and Rust Resistant Ring Bolt (20 pack)
+- Through-Tapped Self-Tapping Threaded Inserts - Marine Grade A4 Stainless Steel - M5 x 10mm from [Shop4Fasteners](https://shop4fasteners.co.uk/through-tapped-self-tapping-threaded-inserts-marine-grade-a4-stainless-steel-m5-x-10mm.html)
+- Zinc Plated Steel Spyder Jack Nuts - M5 (10 pack) from [Spalding Fasteners](https://www.amazon.co.uk/gp/product/B07J2K2F6D/) on Amazon
+- Rawlplug Hollow Wall Anchors M5 x 37mm (20 Pack) from [Screwfix](https://www.screwfix.com/p/rawlplug-hollow-wall-anchors-m5-x-37mm-20-pack/99201)
 
 
 
-#### Screws
+### Bolts
 
-- A4 MARINE GRADE STAINLESS STEEL COUNTERSUNK SELF TAPPING WOOD SCREWS CHIPBOARD (100 pack)
-
-
-
-#### Brackets
-
-- Corner Braces Oval Ends, Stainless Steel Marine Grade 316 (20 pack)
+- Socket Button Head Screws Stainless A4 - M5 x 12mm from [Shop4Fasteners](https://shop4fasteners.co.uk/socket-button-head-screws-stainless-a4-m5-x-12mm.html)
+- Socket Button Head Screws Stainless A4 - M5 x 16mm from [Shop4Fasteners](https://shop4fasteners.co.uk/socket-button-head-screws-stainless-a4-m5-x-16mm.html)
+- Socket Button Head Screws Stainless A4 - M5 x 20mm (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+- Socket Button Head Screws Stainless A4 - M5 x 40mm (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+- Eye Bolt Made of 304 Stainless Steel - M5 (12 pack) from [ABCCOMFORT EU](https://www.amazon.co.uk/gp/product/B0921KYN2B) on Amazon
 
 
 
-#### Nuts
+### Nuts
 
-- HEXAGON FULL NUTS A4 MARINE GRADE 316 STAINLESS STEEL - M5 (10 pack)
+- Hexagon Full Nuts A4 Marine Grade 316 Stainless Steel - M5 (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
 
 
 
-#### Washers
+### Washers
 
-- PENNY REPAIR WASHERS A4 MARINE GRADE STAINLESS STEEL - M5 20mm (10 pack)
-- PENNY REPAIR WASHERS A4 MARINE GRADE STAINLESS STEEL - M5 30mm (10 pack)
-- FORM B WASHERS THIN FLAT A4 MARINE GRADE STAINLESS STEEL - M10 (10.5 x 21 x 1.6mm) (10 pack)
+- Penny Repair Washers A4 Marine Grade Stainless Steel - M5 20mm (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+- Penny Repair Washers A4 Marine Grade Stainless Steel - M5 30mm (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+- Form B Washers Thin Flat A4 Marine Grade Stainless Steel - M10 10.5 x 21 x 1.6mm (10 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+
+
+
+### Screws
+
+- A4 Marine Grade Stainless Steel Countersunk Self Tapping Wood Screws (100 pack) from [Kay's Fasteners](https://www.ebay.co.uk/str/kaysfasteners) on eBay
+
+
+
+### Brackets
+
+- Corner Braces Oval Ends, Stainless Steel Marine Grade 316 - 25 x 25 x 16 x 2mm from [DIY Direct](https://www.diydirect.com/corner-braces-oval-ends-stainless-steel-marine-grade-316-25-x-25-x-16-x-2mm-10-pack)
+
